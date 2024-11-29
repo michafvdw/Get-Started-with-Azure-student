@@ -13,5 +13,5 @@ How to create an azure student account and create your very first prototype!
 5) Click on develop. You will see Keys and endpoint. You will need this later on to get permission to use this resource group
 <a href="https://ibb.co/PCWjtSk"><img src="https://i.ibb.co/YjdQbrg/Screenshot-2024-11-29-at-09-51-45.png" alt="Screenshot-2024-11-29-at-09-51-45" border="0"></a>
 6) Click on Model deployment
-   <a href="https://ibb.co/bznVyRc"><img src="https://i.ibb.co/3BHb8Yg/Screenshot-2024-11-29-at-10-07-40.png" alt="Screenshot-2024-11-29-at-10-07-40" border="0"></a>
-7) Click on Manage deployments
+<a href="https://ibb.co/bznVyRc"><img src="https://i.ibb.co/3BHb8Yg/Screenshot-2024-11-29-at-10-07-40.png" alt="Screenshot-2024-11-29-at-10-07-40" border="0"></a>
+8) Click on Manage deployments
