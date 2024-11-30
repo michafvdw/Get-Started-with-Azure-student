@@ -15,7 +15,7 @@ Use this link for an explanation: https://community.openai.com/t/process-for-azu
 ## Using GPT4 turbo vision to describe images and generate a prompt 
 
 1) Login to portal.azure.com
-2) If everything is right, you have a visual studio professional subscription
+2) If everything is right, you have a visual studio professional subscription and a student subscription 
 3) Go to Resource groups in your settings
 4) Create a Resource called chatbotters and fill in the info in the image below <br></br>
     <a href="https://ibb.co/3hsdzRT"><img src="https://i.ibb.co/4Nftd1F/Screenshot-2024-11-29-at-09-45-42.png" alt="Screenshot-2024-11-29-at-09-45-42" border="0"></a>
