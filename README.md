@@ -2,6 +2,15 @@
 How to create an azure student account and create your very first prototype!
 
 ## Creating an Azure student account 
+Use this link to sign up to azure and create a student account: https://azure.microsoft.com/en-us/free/students
+
+## Creating a visual studio azure subscription 
+Use this link for Azure visual studio subscription: https://azure.microsoft.com/en-us/pricing/member-offers/credit-for-visual-studio-subscribers
+For an explanation use this link: https://learn.microsoft.com/en-gb/visualstudio/subscriptions/buy-activate-retail#how-to-activate-subscriptions
+
+## Getting permission to use OPENAI resources
+Use this link: https://learn.microsoft.com/en-gb/legal/cognitive-services/openai/limited-access 
+Use this link for an explanation: https://community.openai.com/t/process-for-azure-openai-signup/267916
 
 ## Using GPT4 turbo vision to describe images and generate a prompt 
 
