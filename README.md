@@ -30,7 +30,14 @@ Use this link to sign up to azure and create a student account: https://azure.mi
 19) Go to manage deployments, Now you can check that there is a deployment model made for this resource group
 19) If you have a macbook, install Homebrew
 20) Install Micromamba with Homebrow or without in your terminal (https://mamba.readthedocs.io/en/latest/installation/micromamba-installation.html)
-21) Create an environment With micromamba in visual studio code (If you don't have visio studo code install this) (https://prefix.dev/docs/mamba/environments) micromamba create -n multimodal-azure-env -c conda-forge python=3.12 jupyter  
+21) Create an environment With micromamba in visual studio code (If you don't have visio studo code install this) (https://prefix.dev/docs/mamba/environments) micromamba create -n multimodal-azure-env -c conda-forge python=3.12 jupyter
+micromamba activate multimodal-azure-env <br></br>
+<a href="https://ibb.co/nbzcqmT"><img src="https://i.ibb.co/FKgwk39/Screenshot-2024-11-29-at-10-32-28.png" alt="Screenshot-2024-11-29-at-10-32-28" border="0"></a> <br></br>
+22) Create a jupiter Notebook file
+23) Click on command shift P and select your environment in visual studio code
+24) Select your environment again next to outline and the three dots in visual studio code
+25) Type the following in your terminal in visual studio code: pip install openai
+26) 
  
 micromamba activate multimodal-azure-env <br></br>
 <a href="https://ibb.co/nbzcqmT"><img src="https://i.ibb.co/FKgwk39/Screenshot-2024-11-29-at-10-32-28.png" alt="Screenshot-2024-11-29-at-10-32-28" border="0"></a> <br></br>
