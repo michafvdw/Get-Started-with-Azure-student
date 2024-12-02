@@ -37,15 +37,8 @@ micromamba activate multimodal-azure-env <br></br>
 23) Click on command shift P and select your environment in visual studio code
 24) Select your environment again next to outline and the three dots in visual studio code
 25) Type the following in your terminal in visual studio code: pip install openai
-26) 
+26) Use the code given in this project, and you are done!
  
-micromamba activate multimodal-azure-env <br></br>
-<a href="https://ibb.co/nbzcqmT"><img src="https://i.ibb.co/FKgwk39/Screenshot-2024-11-29-at-10-32-28.png" alt="Screenshot-2024-11-29-at-10-32-28" border="0"></a> <br></br>
-22) Create a jupiter Notebook file <br></br>
-23) Click on command shift P and select your environment in visual studio code <br></br>
-24) Select your environment again next to outline and the three dots in visual studio code <br></br>
-25) Type the following in your terminal in visual studio code: pip install openai <br></br>
-26) Use the code given in this project, and you are done! <br></br>
 
 
   
