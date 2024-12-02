@@ -8,7 +8,7 @@ Use this link to sign up to azure and create a student account: https://azure.mi
 
 1) Login to portal.azure.com
 2) If everything is right, you have a student subscription
-3) Go to Resource groups in your settings
+3) Go to your subscriptions, click azure for students. Go to Resource groups.
 4) Create a Resource called chatbotters and fill in the info in the image below <br></br>
     <a href="https://ibb.co/3hsdzRT"><img src="https://i.ibb.co/4Nftd1F/Screenshot-2024-11-29-at-09-45-42.png" alt="Screenshot-2024-11-29-at-09-45-42" border="0"></a>
 5) Go to the resource group called chatbotters, select create
